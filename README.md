@@ -15,6 +15,6 @@ Linux: `python3 -m venv workvenv`
 
 `source bin/activate`
 
-4° passo: dentro da pasta backend, rodar o comando:
+3° passo: dentro da pasta backend, rodar o comando:
 
 `pip install -r requirements.txt`
