@@ -8,6 +8,7 @@ __pycache__/
 .vscode/
 
 backend/workvenv
+frontend/node_modules
 
 # Distribution / packaging
 .Python
